@@ -1,2 +1,1 @@
-# Electrisity-Bills
-Language C program
+"# Electricity-bills" 
